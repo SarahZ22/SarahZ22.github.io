@@ -1,0 +1,88 @@
+#banner{
+    height: 200px;
+}
+
+.navbar{
+    color: black;
+    cursor: pointer;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: absolute;
+    left: 40%;
+}
+
+#name{
+    color: #886693;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif !important;
+    
+}
+
+#roles{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-bottom: 20px;
+}
+
+#mainimg{
+    vertical-align: middle;
+    border: 10px solid #886693;
+    border-radius: 120px;
+}
+
+h3{
+    font-size: 30px;
+    color: black;
+}
+
+#about{
+    font-size: 30px;
+    color: #886693;
+}
+
+p{
+    font-size: 15px;
+    color: black;
+}
+
+.container {
+    max-width: 2000px;
+    padding: 150px;
+    text-align: left;
+}
+
+.contactinfo{
+    background-color: #76667B;
+    width: 100%;
+}
+
+#contact h2{
+    color: white;
+    text-align: center;
+}
+
+li{
+    color:  #76667B;
+    list-style-type: none;
+}
+
+li a{
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+#contact p{
+    text-align: center;
+}
+
+#footer{
+    text-align: center;
+}
